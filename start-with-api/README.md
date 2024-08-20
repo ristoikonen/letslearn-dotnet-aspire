@@ -1,8 +1,7 @@
-﻿# Let's Learn .NET Aspire
+﻿# Ristos .NET Aspire dashboard play including two APIs
 
-Come learn all about [.NET Aspire](https://learn.microsoft.com/dotnet/aspire/), a new cloud ready stack for building observable, production ready, distributed applications.​ .NET Aspire can be added to any application regardless of the size and scale to help you build better applications faster.​
-
-.NET Aspire streamlines app development with:
+Note that this workshop is part of the [Let's Learn .NET](https://aka.ms/letslearndotnet) series.
+Aspire streamlines app development with:
 
 - **Orchestration**: Built-in orchestration with a simple, yet powerful, workflow engine.Use C# and familiar APIs without a line of YAML. Easily add popular cloud services, connect them to your projects, and run locally with a single click. 
 - **Service Discovery**: Automatic injection the right connection strings or network configurations and service discovery information to simplify the developer experience.
@@ -10,6 +9,8 @@ Come learn all about [.NET Aspire](https://learn.microsoft.com/dotnet/aspire/), 
 - **Dashboard**: See live OpenTelemetry data with no configuration required. Launched by default on run, .NET Aspire's developer dashboard shows logs, environment variables, distributed traces, metrics and more to quickly verify app behavior.
 - **Deployment**: manages injecting the right connection strings or network configurations and service discovery information to simplify the developer experience.
 - **So Much More**: .NET Aspire is packed full of features that developers will love and help you be more productive.
+
+Come learn all about [.NET Aspire](https://learn.microsoft.com/dotnet/aspire/), a new cloud ready stack for building observable, production ready, distributed applications.​ .NET Aspire can be added to any application regardless of the size and scale to help you build better applications faster.
 
 Learn more about .NET Aspire with the following resources:
 - [Documentation](https://learn.microsoft.com/dotnet/aspire)
@@ -19,30 +20,10 @@ Learn more about .NET Aspire with the following resources:
 - [.NET Aspire Samples](https://learn.microsoft.com/samples/browse/?expanded=dotnet&products=dotnet-aspire)
 - [.NET Aspire FAQ](https://learn.microsoft.com/dotnet/aspire/reference/aspire-faq)
 
-## Localization
-
-This workshop materials are available in the following languages:
-
-- [English](./README.md)
-- [한국어](./README.ko.md)
-- [日本語](./README.jp.md)
-- [Español](./README.es.md)
-- [Français](./README.fr.md)
-- [Português (PT-BR)](./README.pt-br.md)
-
-You can also watch the Let's Learn .NET Aspire live stream events for the following languages:
-
-- [English](https://www.youtube.com/watch?v=8i3FaHChh20)
-- [한국어](https://www.youtube.com/watch?v=rTpNgMaVM6g)
-- [日本語](https://www.youtube.com/watch?v=Cm7mqHZJIgc)
-- [Español](https://www.youtube.com/watch?v=dd1Mc5bQZSo)
-- [Français](https://www.youtube.com/watch?v=jJiqqVPDN4w)
-- [Português (PT-BR)](https://www.youtube.com/watch?v=PUCU9ZOOgQ8)
-- [Tiếng Việt](https://www.youtube.com/watch?v=48CWnYfTZhk)
 
 ## Workshop
 
-This .NET Aspire workshop is part of the [Let's Learn .NET](https://aka.ms/letslearndotnet) series.  This workshop is designed to help you learn about .NET Aspire and how to use it to build cloud ready applications.  This workshop is broken down into 6 modules:
+  This workshop is designed to help you learn about .NET Aspire and how to use it to build cloud ready applications.  This workshop is broken down into 6 modules:
 
 1. [Setup & Installation](./workshop/1-setup.md)
 1. [Service Defaults](./workshop/2-servicedefaults.md)
